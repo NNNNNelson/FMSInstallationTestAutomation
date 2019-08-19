@@ -1,0 +1,1199 @@
+====================================
+[30m[47mConnecting to Docker host machine...[0m
+====================================
+Done
+
+==========================================
+[30m[47mEmptying the /home/test/Downloads/ path...[0m
+==========================================
+Done
+============================
+[30m[47mDownloading FMS installer...[0m
+============================
+===========================================
+[30m[47mGive execute permission to the installer...[0m
+===========================================
+Done
+
+====================================
+[30m[47mDownloading Foglight.license file...[0m
+====================================
+Done
+================================================================================
+[30m[47mInstalling FMS in console mode with prepared responses to the console prompts...[0m
+================================================================================
+Preparing to install...
+Extracting the JRE from the installer archive...
+Unpacking the JRE...
+Extracting the installation resources from the installer archive...
+Configuring the installer for this system's environment...
+
+Launching installer...
+
+Preparing CONSOLE Mode Installation...
+
+===============================================================================
+Foglight 5.9.5                    (created with InstallAnywhere by Macrovision)
+-------------------------------------------------------------------------------
+
+
+
+
+===============================================================================
+Introduction
+------------
+
+InstallAnywhere will guide you through the installation of Foglight.
+
+It is strongly recommended that you quit all programs before continuing with 
+this installation.
+
+Respond to each prompt to proceed to the next step in the installation.  If you
+want to change something on a previous step, type 'back'.
+
+You may cancel this installation at any time by typing 'quit'.
+
+[Build: 5.9.5-201901131709-163412de-4]
+
+PRESS <ENTER> TO CONTINUE: 
+
+
+===============================================================================
+Transaction Product Agreement
+-----------------------------
+
+Installation and use of Foglight requires acceptance of the following 
+Transaction Product Agreement:
+
+Software Transaction Agreement
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THIS PRODUCT. BY DOWNLOADING,
+INSTALLING OR USING THIS PRODUCT, YOU ACCEPT AND AGREE TO THE TERMS AND 
+CONDITIONS OF THIS AGREEMENT. FOR ORDERS PLACED OUTSIDE THE UNITED STATES OF 
+AMERICA, PLEASE GO TO http://quest.com/legal/sta.aspx TO VIEW THE APPLICABLE 
+VERSION OF THIS AGREEMENT FOR YOUR REGION. IF YOU DO NOT AGREE TO THE TERMS AND
+CONDITIONS OF THIS AGREEMENT OR THE APPLICABLE VERSION OF THIS AGREEMENT FOR 
+YOUR REGION, DO NOT DOWNLOAD, INSTALL OR USE THIS PRODUCT. IF YOU HAVE A SIGNED
+AGREEMENT WITH PROVIDER THAT IS SPECIFICALLY REFERENCED IN AN ORDER THAT IS 
+EXECUTED BETWEEN YOU AND PROVIDER, THEN THAT SIGNED AGREEMENT WILL SUPERSEDE 
+THIS AGREEMENT.
+
+This Software Transaction Agreement (the "Agreement") is made between you, the 
+Customer ("Customer" or "You") and the Provider, as defined below.
+
+1.	Definitions.	Capitalized terms not defined in context shall have the 
+meanings assigned to them below:
+
+(a)	"Affiliate" means any legal entity controlling, controlled by, or under 
+common control with a party to this Agreement, for so long as such control 
+relationship exists.
+
+
+PRESS <ENTER> TO CONTINUE: 
+(b)	"Appliance" means a computer hardware product upon which the Software is 
+pre-installed and delivered.
+
+(c)	"Documentation" means the user manuals and documentation that Provider 
+makes available for the Software, and all copies of the foregoing.
+
+(d)	"eStore" means Provider's online Software ordering system located at 	
+http://quest.com/shop/.
+
+(e)	"License Entitlements" means the quantities and versions of Products 
+licensed to Customer, the new versions and releases to which Customer is 
+entitled to under any active Maintenance Services, and the Product Terms that 
+apply to each Product.
+
+(f)	"License Type" means the model by which the Software is licensed (e.g., by 
+server, by mailbox, by managed user) as indicated in the applicable Order.
+
+(g) 	"Maintenance Services" means Provider's maintenance and support offering 
+for the Products as identified in the Maintenance Services Section below.
+
+(h) 	An "Order" is either (i) an ordering document signed by Customer and 
+Provider ("Signed Order"), (ii) an order placed through the eStore, (iii) an 
+
+PRESS <ENTER> TO CONTINUE: 
+order placed through a Partner, or (iv) a Customer purchase order ("PO") 
+submitted to Provider.  All Orders are governed solely and exclusively by this 
+Agreement and any additional or varying terms stated on (a) a Signed Order or 
+(b) a Provider quotation referenced on a PO that states that it is governed 
+exclusively by such quotation ("Governing Quotation").  Each Order shall be 
+Customer's irrevocable commitment to purchase and pay for the Products and/or 
+Maintenance Services stated in the Order and each Order placed with Provider 
+shall be subject to approval by Provider in writing or by performance.
+
+(i)	"Overuse" means Use that is in excess of Customer's License Entitlements or
+any other unauthorized Use.
+
+(j)	"Partner" means a reseller or distributor that is under contract with 
+Provider or another Partner and is authorized via such contract to resell the 
+Products and/or Maintenance Services.
+
+(k)	"Product Guide" means the document located at 
+http://Quest.com/docs/Product_Guide.pdf that contains the Product Terms.
+
+(l)	"Product Terms" means the terms associated with each License Type and any 
+other terms associated with an individual Product.  The Product Terms for 
+Products in a Signed Order or a Governing Quotation shall be as stated in the 
+
+PRESS <ENTER> TO CONTINUE: 
+Signed Order or Governing Quotation. If no Product Terms are stated in the 
+Signed Order or Governing Quotation, if the Order is placed with a PO only, if 
+the Order is placed through the eStore, or if the Products are purchased from a
+Partner, then the Product Terms for such Products shall be as stated in the 
+Product Guide as of the date of the Order or purchase.
+
+(m)	"Provider" means Quest Software Inc., with its principal place of business 
+located at 4 Polaris Way, Aliso Viejo, CA 92656. If an Order is placed through 
+and approved by an Affiliate of Provider, then that Affiliate shall be the 
+Provider under this Agreement. If the Provider is renamed, then the renamed 
+entity shall become the Provider under this Agreement.
+
+(n)	"Products" means the Software and Appliance(s) provided to Customer by 
+Provider.
+
+(o)	"Software" means the object code version of the software that is provided 
+or made available to Customer pursuant to an Order as well as any new versions 
+and releases of such software that are made available to Customer pursuant to 
+this Agreement, and all copies of the foregoing. Software includes On-Premise 
+Software and SaaS Software (as defined in the Software License Section), along 
+with software that is delivered on an Appliance.
+
+
+PRESS <ENTER> TO CONTINUE: 
+(p) 	"Use" means Customer's installations, deployment, access of or provision 
+of access to, or use of each Product
+
+2.	Software License.
+
+(a)	General. Subject to the terms of this Agreement, Provider grants to 
+Customer, and Customer accepts from Provider, a non-exclusive, non-transferable
+(except as otherwise set forth herein) and non-sublicensable license to access 
+and use the quantities of each item of Software purchased from Provider or a 
+Partner within the parameters of the Product Terms associated with the 
+applicable Software and License Type (the "License"). Except for MSP Licenses 
+(as defined below), Customer shall only use the Software to support the 
+internal business operations of itself and its worldwide Affiliates.
+
+(b)  On-Premise Software. If Software is delivered to Customer for (i) 
+Customer's installation and use on its own equipment or (ii) pre-installed by 
+Provider on an Appliance ("On-Premise Software"), the License shall be 
+perpetual (unless otherwise stated on the Order) and shall also include the 
+right to (i) make a reasonable number of additional copies of the On-Premise 
+Software to be used solely for non-productive archival or passive disaster 
+recovery purposes, provided such copies are kept in a secure location and are 
+not used for production purposes unless the primary copy of the On-Premise 
+
+PRESS <ENTER> TO CONTINUE: 
+Software is not being used for production purposes, and (ii) make and use 
+copies of the Documentation as reasonably necessary to support Customer's 
+authorized users in their use of the On-Premise Software. Each License for 
+On-Premise Software shall only be installed by Customer in the country in which
+the On-Premise Software is initially delivered to Customer.
+
+(c)	Software as a Service. If an Order provides Customer with a right to access
+and use Software installed on equipment operated by Provider or its suppliers 
+("SaaS Software"), (i) the License for such SaaS Software shall be granted for 
+the duration of the term stated in the Order (the "SaaS Term"), as such SaaS 
+Term may be extended by automatic or agreed upon renewals, and (ii) the terms 
+set forth in the SaaS Provisions Section of this Agreement shall apply to all 
+access to and use of such Software. If any item of Software to be installed on 
+Customer's equipment is provided in connection with SaaS Software, the License 
+duration for such Software shall be for the corresponding SaaS Term, and 
+Customer shall promptly install any updates to such Software as may be provided
+by Provider.
+
+(d)	MSP License. If an Order indicates that Software is to be used by Customer 
+as a managed service provider, Customer shall be granted a License to use such 
+Software and the associated Documentation to provide Management Services (an 
+"MSP License"). "Management Services" include, without limitation, application,
+
+PRESS <ENTER> TO CONTINUE: 
+operating system, and database implementation, performance tuning, and 
+maintenance services provided by Customer to its customers (each, a "Client"). 
+Each MSP License is governed by the terms of this Agreement and the MSP terms 
+in the Product Guide.
+
+If an Order for an MSP License expressly permits Customer to install copies of 
+the Software on its Clients' equipment or to provide its Clients access to the 
+Software, then Customer shall ensure that (i) each Client only uses the 
+Software and Documentation as part of the Management Services provided to it by
+Customer, (ii) such use is subject to the restrictions and limitations 
+contained in this Agreement, including, but not limited to those in the Export 
+Section of this Agreement, and the applicable Order, and (iii) each Client 
+cooperates with Provider during any compliance review that may be conducted by 
+Provider or its designated agent.  At the conclusion of any Management Services
+engagement with a Client, Customer shall promptly remove any Software installed
+on its Client's computer equipment or require the Client to do the same. 
+Customer agrees that it shall be jointly and severally liable to Provider for 
+the acts and omissions of its Clients in connection with their use of the 
+Software and Documentation and shall, at its expense, defend Provider against 
+any action, suit, or claim brought against Provider by a Client in connection 
+with or related to Customer's Management Services and pay any final judgments 
+or settlements as well as Provider's expenses in connection with such action, 
+
+PRESS <ENTER> TO CONTINUE: 
+suit, or claim.
+
+(e)	Evaluation License. If an Order indicates that Software is to be used by 
+Customer for evaluation purposes, or if Software is otherwise obtained from 
+Provider for evaluation purposes, Customer shall be granted a License to use 
+such Software and the associated Documentation solely for Customer's own 
+non-production, internal evaluation purposes (an "Evaluation License"). Each 
+Evaluation License shall be granted for an evaluation period of up to thirty 
+(30) days from the date of delivery of the On-Premise Software or from the date
+that access is granted to the SaaS Software, plus any extensions granted by 
+Provider in writing (the "Evaluation Period"). There is no fee for an 
+Evaluation License during the Evaluation Period, however, Customer is 
+responsible for any applicable shipping charges or taxes which may be incurred,
+and any fees which may be associated with usage beyond the scope permitted 
+herein. Customer will only be granted one Evaluation License per release of any
+item of Software. Notwithstanding anything otherwise set forth in this 
+Agreement, Customer understands and agrees that Evaluation Licenses are 
+provided "AS IS" and that Provider does not provide warranties or Maintenance 
+Services for Evaluation Licenses.
+
+(f)	Freeware License. If Customer downloads a freeware version of Software from
+a Provider website, the terms of use of such Software shall be governed by the 
+
+PRESS <ENTER> TO CONTINUE: 
+applicable Freeware definition set forth in the Product Guide (a "Freeware 
+License"). Notwithstanding anything otherwise set forth in this Agreement, 
+Customer understands and agrees that Freeware Licenses are (i) provided "AS 
+IS", (ii) Provider does not provide warranties or Maintenance Services for 
+Freeware Licenses, and (iii) Freeware Licenses are for internal use only and 
+may not distributed to any third party.
+
+(g)	Use by Third Parties. Customer may allow its services vendors and 
+contractors (each, a "Third Party User") to access and use the Software and 
+Documentation provided to Customer hereunder solely for purposes of providing 
+services to Customer , provided that Customer ensures that (i) the Third Party 
+User's access to or use of the Software and Documentation is subject to the 
+restrictions and limitations contained in this Agreement, including, but not 
+limited to those in the Export Section, and the applicable Order(s), (ii) the 
+Third Party User cooperates with Provider during any compliance review that may
+be conducted by Provider or its designated agent, and (iii) the Third Party 
+Users promptly removes any Software installed on its computer equipment upon 
+the completion of the Third Party's need to access or use the Software as 
+permitted by this Section. Customer agrees that the acts and omissions of its 
+Third Party Users related to this Agreement, the Software, and Orders shall be 
+deemed the acts and omissions of Customer.
+
+
+PRESS <ENTER> TO CONTINUE: 
+(h)	Third Party Licenses. Some Products incorporate third party components 
+which are subject to the terms of the third party licenses and whose licenses 
+require Provider to publish copies of the licensing language and/or copyright 
+notices. Copies of such third party licenses are available at 
+https://www.quest.com/legal/third-party-licenses.aspx.
+
+3. 	Restrictions. Customer may not reverse engineer, decompile, disassemble, or
+attempt to discover or modify in any way the underlying source code of the 
+Software, or any part thereof unless and to the extent (a) such restrictions 
+are prohibited by applicable law and (b) Customer has requested 
+interoperability information in writing from Provider and Provider has not 
+provided such information in a timely manner. In addition, Customer may not (i)
+modify, translate, localize, adapt, rent, lease, loan, create or prepare 
+derivative works of, or create a patent based on the Products, Documentation or
+any part thereof, (ii) resell, sublicense or distribute the Products or 
+Documentation, (iii) provide, make available to, or permit use of the Products,
+in whole or in part, by any third party (except as expressly set forth herein),
+(iv) use the Products or Documentation to create or enhance a competitive 
+offering or for any other purpose which is competitive to Provider, (v) remove 
+Software that was delivered on an Appliance from the Appliance on which it was 
+delivered and load such Software onto a different appliance without Provider's 
+prior written consent, or (vi) perform or fail to perform any other act which 
+
+PRESS <ENTER> TO CONTINUE: 
+would result in a misappropriation or infringement of Provider's intellectual 
+property rights in the Products or Documentation. Each permitted copy of the 
+Software and Documentation made by Customer hereunder must contain all titles, 
+trademarks, copyrights and restricted rights notices as in the original. 
+Customer understands and agrees that the Products may work in conjunction with 
+third party products and Customer agrees to be responsible for ensuring that it
+is properly licensed to use such third party products. Notwithstanding anything
+otherwise set forth in this Agreement, the terms and restrictions set forth 
+herein shall not prevent or restrict Customer from exercising additional or 
+different rights to any open source software that may be contained in or 
+provided with the Products in accordance with the applicable open source 
+software licenses which shall be either included with the Products or made 
+available to Customer upon request. Customer may not use any license keys or 
+other license access devices not provided by Provider, including but not 
+limited to "pirate keys", to install or access the Software.
+
+4.	Proprietary Rights. Customer understands and agrees that (i) the Products 
+are protected by copyright and other intellectual property laws and treaties, 
+(ii) Provider, its Affiliates and/or its licensors own the copyright, and other
+intellectual property rights in the Products, (iii) the Software is licensed, 
+and not sold, (iv) this Agreement does not grant Customer any rights to 
+Provider's trademarks or service marks, and (v) Provider reserves any and all 
+
+PRESS <ENTER> TO CONTINUE: 
+rights, implied or otherwise, which are not expressly granted to Customer in 
+this Agreement.
+
+5.  	Title, Risk of Loss and Delivery. Provider, its Affiliates and/or its 
+licensors own the title to all Software. Title and risk of loss to an Appliance
+shall pass from Provider to Customer upon shipment (unless the Appliance is 
+rented, leased or loaned to Customer).  Delivery of Products shall be by 
+electronic download or electronic download and FOB Shipping Point.
+
+6.  	Payment. Customer agrees to pay to Provider (or, if applicable, the 
+Partner) the fees specified in each Order, including any applicable shipping 
+fees. Customer will be invoiced promptly following delivery of the Products or 
+prior to the commencement of any Renewal Maintenance Period and Customer shall 
+make all payments due to Provider in full within thirty (30) days from the date
+of each invoice or such other period (if any) stated in a Signed Order.  
+Provider reserves the right to charge Customer a late penalty of 1.5% per month
+(or the maximum rate permitted by law, whichever is the lesser) for any amounts
+payable to Provider by Customer that are not subject to a good faith dispute 
+and that remain unpaid after the due date until such amount is paid.
+
+7.	Taxes. The fees stated in an Order may not include taxes. If Provider is 
+required to pay sales, use, property, value-added or other taxes based on the 
+
+PRESS <ENTER> TO CONTINUE: 
+Products or Maintenance Services provided under this Agreement or on Customer's
+use of Products or Maintenance Services, then such taxes shall be billed to and
+paid by Customer. This Section does not apply to taxes based on Provider's 
+income.
+
+8.  	Termination.
+
+This Agreement or the Licenses granted hereunder may be terminated (i) by 
+mutual written agreement of Provider and Customer or (ii) by either party for a
+breach of this Agreement by the other party (or a Third Party User) that the 
+breaching party fails to cure to the non-breaching party's reasonable 
+satisfaction within thirty (30) days following its receipt of notice of the 
+breach.
+
+Upon termination of this Agreement or expiration or termination of a License 
+for any reason, all rights granted to Customer for the applicable Software 
+shall immediately cease and Customer shall immediately: (i) cease using the 
+applicable Software and Documentation, (ii) remove all copies, installations, 
+and instances of the applicable Software from all Customer computers and any 
+other devices on which the Software was installed, and ensure that all 
+applicable Third Party Users and Clients do the same, (iii) return the 
+applicable Software to Provider together with all Documentation and other 
+
+PRESS <ENTER> TO CONTINUE: 
+materials associated with the Software and all copies of any of the foregoing, 
+or destroy such items, (iv) cease using the Maintenance Services associated 
+with the applicable Software, (v) pay Provider or the applicable Partner all 
+amounts due and payable up to the date of termination, and (vi) give Provider a
+written certification, within ten (10) days, that Customer,  Third Party Users,
+and Clients, as applicable, have complied with all of the foregoing 
+obligations.
+
+Any provision of this Agreement that requires or contemplates execution after 
+(i) termination of this Agreement, (ii) a termination or expiration of a 
+License, or (iii) the expiration of a SaaS Term, is enforceable against the 
+other party and their respective successors and assignees notwithstanding such 
+termination or expiration, including, without limitation, the Restrictions, 
+Payment, Taxes, Termination, Warranty Disclaimer, Infringement Indemnity, 
+Limitation of Liability, Confidential Information, Compliance Verification, and
+General Sections of this Agreement. Termination of this Agreement or a License 
+shall be without prejudice to any other remedies that the terminating party may
+have under law, subject to the limitations and exclusions set forth in this 
+Agreement.
+
+9.  	Export. Customer acknowledges that the Products and Maintenance Services 
+are subject to the export control laws, rules, regulations, restrictions and 
+
+PRESS <ENTER> TO CONTINUE: 
+national security controls of the United States and other applicable foreign 
+agencies (the "Export Controls") and agrees to abide by the Export Controls. 
+Customer hereby agrees to use the Products and Maintenance Services in 
+accordance with the Export Controls, and shall not export, re-export, sell, 
+lease or otherwise transfer the Products or any copy, portion or direct product
+of the foregoing in violation of the Export Controls.  Customer is solely 
+responsible for obtaining all necessary licenses or authorizations relating to 
+the export, re-export, sale, lease or transfer of the Products and for ensuring
+compliance with the requirements of such licenses or authorizations. Customer 
+hereby (i) represents that Customer is not an entity or person to which 
+shipment of Products, or provision of Maintenance Services, is prohibited by 
+the Export Controls; and (ii) agrees that it shall not export, re-export or 
+otherwise transfer the Products to (a) any country subject to a United States 
+trade embargo, (b) a national or resident of any country subject to a United 
+States trade embargo, (c) any person or entity to which shipment of Products is
+prohibited by the Export Controls, or (d) anyone who is engaged in activities 
+related to the design, development, production, or use of nuclear materials, 
+nuclear facilities, nuclear weapons, missiles or chemical or biological 
+weapons. Customer shall, at its expense, defend Provider and its Affiliates 
+from any third party claim or action arising out of any inaccurate 
+representation made by Customer regarding the existence of an export license, 
+Customer's failure to provide information to Provider to obtain an export 
+
+PRESS <ENTER> TO CONTINUE: 
+license, or any allegation made against Provider due to Customer's violation or
+alleged violation of the Export Controls (an "Export Claim") and shall pay any 
+judgments or settlements reached in connection with the Export Claim as well as
+Provider's costs of responding to the Export Claim.
+
+10.   Maintenance Services.
+
+(a) 	Description. Except as otherwise stated in a Signed Order or Governing 
+Quotation, or an amendment to this Agreement, during any Maintenance Period and
+for the applicable fees, Provider shall:
+
+	(i)	Make available to Customer new versions and releases of the Software, 
+including Software corrections, enhancements and upgrades, if and when Provider
+makes them generally available without charge as part of Maintenance Services.
+
+	(ii)	Respond to communications from Customer that report Software failures not
+previously reported to Provider by Customer. Nothing in the foregoing shall 
+operate to limit or restrict follow up communication by Customer regarding 
+Software failures.
+
+	(iii)  Respond to requests from Customer's technical coordinators for 
+assistance with the operational/technical aspects of the Software unrelated to 
+
+PRESS <ENTER> TO CONTINUE: 
+a Software failure. Provider shall have the right to limit such responses if 
+Provider reasonably determines that the volume of such non-error related 
+requests for assistance is excessive or overly repetitive in nature.
+
+    (iv)	Provide access to Provider's software support web site at 
+http://quest.com/support/ (the "Support Site").
+
+    (v)	For Customers that have purchased a License to use Software in the 
+"Privileged Account" family of products ("PA Software") and have purchased 
+Maintenance Services for the PA Software continuously since the purchase of 
+such License, provide the Privileged Account Appliance Replacement Program (as 
+described in the Product Guide) for the Appliance on which the PA Software is 
+delivered (the "PA Appliance").
+
+
+Maintenance Services are available during regional business support hours 
+("Business Hours") as indicated on the Support Site, unless Customer has 
+purchased 24x7 Support. The list of Software for which 24x7 Support is 
+available and/or required is listed in the Global Support Guide on the Support 
+Site.
+
+The Maintenance Services for Software that Provider has obtained through an 
+
+PRESS <ENTER> TO CONTINUE: 
+acquisition or merger may, for a period of time following the effective date of
+the acquisition or merger, be governed by terms other than those in this 
+Section. The applicable different terms, if any, shall be stated on the Support
+Site.
+
+(b)	Maintenance Period. For On-Premise Software, the first period for which 
+Customer is entitled to receive Maintenance Services begins on the date of the 
+initial delivery of the Software following an Order and ends twelve (12) months
+thereafter unless otherwise set forth below or in the applicable Signed Order 
+or Governing Quotation (the "Initial Maintenance Period"). Following the 
+Initial Maintenance Period, Maintenance Services for On-Premise Software shall 
+automatically renew for additional terms of twelve (12) months (each, a 
+"Renewal Maintenance Period") at the prices stated on the Maintenance renewal 
+Quotation unless the renewal has been cancelled by either party giving written 
+notice, by email or otherwise, to the other at least sixty (60) days prior to 
+the first day of the applicable Renewal Maintenance Period. Unless otherwise 
+agreed in writing, Customer must purchase Maintenance Services for all copies 
+of each licensed Product or none at all for that Product. Customer may not 
+cancel Maintenance Services on a subset of licenses of a Product to reduce 
+Maintenance fees. For purposes of this Agreement, the Initial Maintenance 
+Period and each Renewal Maintenance Period shall be considered a "Maintenance 
+Period."  For the avoidance of doubt, this Agreement shall apply to each 
+
+PRESS <ENTER> TO CONTINUE: 
+Renewal Maintenance Period.  Cancellation of Maintenance Services for perpetual
+Licenses for On-Premise Software will not terminate Customer's rights to 
+continue to use the On-Premise Software. Maintenance fees shall be due in 
+advance of each Renewal Maintenance Period and shall be subject to the payment 
+requirements set forth in this Agreement. The procedure for reinstating 
+Maintenance Services for On-Premise Software after it has lapsed is posted at 
+https://support.quest.com/essentials/Reinstate-Maintenance-Services.
+
+For SaaS Software, the Maintenance Period is equal to the duration of the 
+applicable SaaS Term. For non-perpetual Licenses for On-Premises Software or 
+for non-perpetual MSP Licenses, the Maintenance Period is equal to the duration
+of the License.
+
+11.  	Warranties and Remedies.
+
+(a)	Software Warranties. Provider warrants that, during the applicable Warranty
+Period (as defined in subsection (c) below),
+
+    (i) 	the operation of the Software, as provided by Provider, will 
+substantially conform to its Documentation (the "Operational Warranty");
+
+    (ii) 	the Software, as provided by Provider, will not contain any viruses, 
+
+PRESS <ENTER> TO CONTINUE: 
+worms, Trojan Horses, or other malicious or destructive code designed by 
+Provider to allow unauthorized intrusion upon, disabling of, or erasure of the 
+Software, except that the Software may contain a key limiting its use to the 
+scope of the License granted, and license keys issued by Provider for temporary
+use are time-sensitive (the "Virus Warranty");
+
+    (iii)	the media provided by Provider, if any, on which the On-Premise 
+Software is recorded will be free from material defects in materials and 
+workmanship under normal use (the "Media Warranty"); and
+
+(b)	Appliance Warranties. Except for the PA Appliance, Appliances are warranted
+in accordance with the warranty document delivered with the Appliance and/or 
+included on the hardware manufacturers' website. For the PA Appliance, Provider
+warrants that, during the applicable Warranty Period, the PA Appliance will 
+operate in a manner which allows the PA Software to be used in substantial 
+conformance with the Documentation (the "PA Appliance Warranty").
+
+(c)	Warranty Periods. The "Warranty Period" for each of the above warranties 
+shall be as follows: (i) for the Operational Warranty as it applies to 
+On-Premise Software, the Virus Warranty and the Media Warranty, thirty (30) 
+days following the initial delivery of the Software pursuant to an Order; (ii) 
+for the Operational Warranty as it applies to SaaS Software, the duration of 
+
+PRESS <ENTER> TO CONTINUE: 
+the SaaS Term; and (iii) for the PA Appliance Warranty, one (1) year following 
+the initial delivery of the PA Appliance following an Order.
+
+(d)	Remedies. Any breach of the foregoing warranties must be reported by 
+Customer to Provider during the applicable Warranty Period.  Customer's sole 
+and exclusive remedy and Provider's sole obligation for any such breach shall 
+be as follows:
+
+    (i)  	For a breach of the Operational Warranty that impacts the use of 
+On-Premise Software, Provider shall correct or provide a workaround for 
+reproducible errors in the Software that caused the breach within a reasonable 
+time considering the severity of the error and its effect on Customer or, at 
+Provider's option, refund the license fees paid for the nonconforming Software 
+upon return of such Software to Provider and termination of the related 
+License(s) hereunder.
+
+    (ii)	For a breach of the Operational Warranty that impacts the use of SaaS 
+Software, Provider shall correct or provide a workaround for reproducible 
+errors in the Software that caused the breach and provide a credit of the fees 
+allocable to the period during which the Software was not operating in 
+substantial conformance with the applicable Documentation.
+
+
+PRESS <ENTER> TO CONTINUE: 
+    (iii)	For a breach of the Virus Warranty, Provider shall replace the 
+Software with a copy that is in conformance with the Virus Warranty.
+
+    (iv)	For a breach of the Media Warranty, Provider shall, at its expense, 
+replace the defective media.
+
+    (v)	For a breach of the PA Appliance Warranty, Provider shall fulfill its 
+obligations under the applicable Appliance Replacement Program.
+
+Additional Product-specific warranties and remedies may be stated in a Signed 
+Order.
+
+(e)	Warranty Exclusions. The warranties set forth in this Section shall not 
+apply to any non-conformance (i) that Provider cannot recreate after exercising
+commercially reasonable efforts to attempt to do so; (ii) caused by misuse of 
+the applicable Product or by using the Product in a manner that is inconsistent
+with this Agreement or the Documentation; or (iii) arising from the 
+modification of the Product by anyone other than Provider.
+
+(f)	No Warranty of Interoperability.  Certain Software may contain features 
+designed to interoperate with third-party products.  If the third-party product
+is no longer made available by the applicable provider, Provider may 
+
+PRESS <ENTER> TO CONTINUE: 
+discontinue the related product feature. Provider shall notify Customer of any 
+such discontinuation, however Customer will not be entitled to any refund, 
+credit or other compensation as a result of the discontinuation.
+
+(g)	Warranty Disclaimer. THE EXPRESS WARRANTIES AND REMEDIES SET FORTH IN THIS 
+SECTION OR IN A SIGNED ORDER OR GOVERNING QUOTATION ARE THE ONLY WARRANTIES AND
+REMEDIES PROVIDED BY PROVIDER HEREUNDER. TO THE MAXIMUM EXTENT PERMITTED BY 
+APPLICABLE LAW, ALL OTHER WARRANTIES OR REMEDIES ARE EXCLUDED, WHETHER EXPRESS 
+OR IMPLIED, ORAL OR WRITTEN, INCLUDING ANY IMPLIED WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, NON-INFRINGEMENT, 
+SATISFACTORY QUALITY, AND ANY WARRANTIES ARISING FROM USAGE OF TRADE OR COURSE 
+OF DEALING OR PERFORMANCE. PROVIDER DOES NOT WARRANT UNINTERRUPTED OR 
+ERROR-FREE OPERATION OF THE PRODUCTS.
+
+(h)	High-Risk Disclaimer. CUSTOMER UNDERSTANDS AND AGREES THAT THE PRODUCTS ARE
+NOT FAULT-TOLERANT AND ARE NOT DESIGNED OR INTENDED FOR USE IN ANY HIGH-RISK OR
+HAZARDOUS ENVIRONMENT, INCLUDING WITHOUT LIMITATION, THE OPERATION OF NUCLEAR 
+FACILITIES, AIRCRAFT NAVIGATION, AIR TRAFFIC CONTROL, LIFE SUPPORT MACHINES, 
+WEAPONS SYSTEMS, OR ANY OTHER APPLICATION WHERE THE FAILURE OR MALFUNCTION OF 
+ANY PRODUCT CAN REASONABLY BE EXPECTED TO RESULT IN DEATH, PERSONAL INJURY, 
+SEVERE PROPERTY DAMAGE OR SEVERE ENVIRONMENTAL HARM (A "HIGH RISK 
+ENVIRONMENT"). ACCORDINGLY, (I) CUSTOMER SHOULD NOT USE THE PRODUCTS IN A HIGH 
+
+PRESS <ENTER> TO CONTINUE: 
+RISK ENVIRONMENT, (II) ANY USE OF THE PRODUCTS BY CUSTOMER IN A HIGH RISK 
+ENVIRONMENT IS AT CUSTOMER'S OWN RISK, (III) PROVIDER, ITS AFFILIATES AND 
+SUPPLIERS SHALL NOT BE LIABLE TO CUSTOMER IN ANY WAY FOR USE OF THE PRODUCTS IN
+A HIGH RISK ENVIRONMENT, AND (IV) PROVIDER MAKES NO WARRANTIES OR ASSURANCES, 
+EXPRESS OR IMPLIED, REGARDING USE OF THE PRODUCTS IN A HIGH RISK ENVIRONMENT.
+
+12.  Infringement Indemnity. Provider shall indemnify Customer from and against
+any claim, suit, action, or proceeding brought against Customer by a third 
+party to the extent it is based on an allegation that the Software directly 
+infringes any patent, copyright, trademark, or other proprietary right 
+enforceable in the country in which Provider has authorized Customer to use the
+Software, including, but not limited to the country to which the Software is 
+delivered to Customer, or misappropriates a trade secret in such country (a 
+"Claim").  Indemnification for a Claim shall consist of the following: Provider
+shall (a) defend or settle the Claim at its own expense, (b) pay any judgments 
+finally awarded against Customer under a Claim or any amounts assessed against 
+Customer in any settlements of a Claim, and (c) reimburse Customer for the 
+reasonable administrative costs or expenses, including without limitation 
+reasonable attorneys' fees, it necessarily incurs in responding to the Claim. 
+Provider's obligations under this Infringement Indemnity Section are 
+conditioned upon Customer (i) giving prompt written notice of the Claim to 
+Provider, (ii) permitting Provider to retain sole control of the investigation,
+
+PRESS <ENTER> TO CONTINUE: 
+defense or settlement of the Claim, and (iii) providing Provider with 
+cooperation and assistance as Provider may reasonably request in connection 
+with the Claim. Provider shall have no obligation hereunder to defend Customer 
+against any Claim (a) resulting from use of the Software other than as 
+authorized by this Agreement, a Signed Order, or a Governing Quotation, (b) 
+resulting from a modification of the Software other than by Provider, (c) based
+on Customer's use of any release of the Software after Provider recommends 
+discontinuation because of possible or actual infringement and has provided a 
+non-infringing version at no charge,  or (d) to the extent the Claim arises 
+from or is based on the use of the Software with other products, services, or 
+data not supplied by Provider if the infringement would not have occurred but 
+for such use. If, as a result of a Claim or an injunction, Customer must stop 
+using any Software ("Infringing Software"), Provider shall at its expense and 
+option either (1) obtain for Customer the right to continue using the 
+Infringing Software, (2) replace the Infringing Software with a functionally 
+equivalent non-infringing product, (3) modify the Infringing Software so that 
+it is non-infringing, or (4) terminate the License for the Infringing Software 
+and (A) for On-Premise Software, accept the return of the Infringing Software 
+and refund the license fee paid for the Infringing Software, pro-rated over a 
+sixty (60) month period from the date of initial delivery of such Software 
+following an Order, or (B) for SaaS Software, discontinue Customer's right to 
+access and use the Infringing  Software and refund the unused pro-rated portion
+
+PRESS <ENTER> TO CONTINUE: 
+of any license fees pre-paid by Customer for such Software. This Section states
+Provider's entire liability and its sole and exclusive indemnification 
+obligations with respect to a Claim and Infringing Software.
+
+13.  Limitation of Liability. EXCEPT FOR (A) ANY BREACH OF THE RESTRICTIONS OR 
+CONFIDENTIAL INFORMATION SECTIONS OF THIS AGREEMENT, (B) AMOUNTS CONTAINED IN 
+JUDGMENTS OR SETTLEMENTS WHICH PROVIDER IS LIABLE TO PAY TO A THIRD PARTY UNDER
+THE INFRINGEMENT INDEMNITY SECTION OF THIS AGREEMENT AND CUSTOMER IS LIABLE TO 
+PAY ON BEHALF OF OR TO PROVIDER UNDER THE SAAS ADDENDUM (IF APPLICABLE), 
+EXPORT, AND MSP LICENSE SECTIONS OF THIS AGREEMENT, OR (C) ANY LIABILITY TO THE
+EXTENT LIABILITY MAY NOT BE EXCLUDED OR LIMITED AS A MATTER OF APPLICABLE LAW, 
+IN NO EVENT SHALL CUSTOMER OR ITS AFFILIATES OR PROVIDER, ITS AFFILIATES OR 
+SUPPLIERS BE LIABLE FOR  (X) ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL
+LOSS OR DAMAGE OF ANY KIND OR (Y) LOSS OF REVENUE, LOSS OF ACTUAL OR 
+ANTICIPATED PROFITS, LOSS OF BUSINESS, LOSS OF CONTRACTS, LOSS OF GOODWILL OR 
+REPUTATION, LOSS OF ANTICIPATED SAVINGS, LOSS OF, DAMAGE TO OR CORRUPTION OF 
+DATA, HOWSOEVER ARISING, WHETHER SUCH LOSS OR DAMAGE WAS FORESEEABLE OR IN THE 
+CONTEMPLATION OF THE PARTIES AND WHETHER ARISING IN OR FOR BREACH OF CONTRACT, 
+TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY, OR OTHERWISE.
+
+EXCEPT FOR (A) ANY BREACH OF THE SOFTWARE LICENSE, RESTRICTIONS, OR 
+CONFIDENTIAL INFORMATION SECTIONS OF THIS AGREEMENT, OR ANY OTHER VIOLATION OF 
+
+PRESS <ENTER> TO CONTINUE: 
+THE OTHER PARTY'S INTELLECTUAL PROPERTY RIGHTS; (B) PROVIDER'S EXPRESS 
+OBLIGATIONS UNDER THE INFRINGEMENT INDEMNITY SECTION OF THIS  AGREEMENT AND 
+CUSTOMER'S EXPRESS OBLIGATIONS UNDER THE SAAS ADDENDUM (IF APPLICABLE), EXPORT,
+AND MSP LICENSE SECTIONS OF THIS AGREEMENT, (C) PROVIDER'S COSTS OF COLLECTING 
+DELINQUENT AMOUNTS WHICH ARE NOT THE SUBJECT OF A GOOD FAITH DISPUTE; (D) A 
+PREVAILING PARTY'S LEGAL FEES PURSUANT TO THE LEGAL FEES SECTION OF THIS 
+AGREEMENT; OR (E) ANY LIABILITY TO THE EXTENT LIABILITY MAY NOT BE EXCLUDED OR 
+LIMITED AS A MATTER OF APPLICABLE LAW, THE MAXIMUM AGGREGATE AND CUMULATIVE 
+LIABILITY OF CUSTOMER AND ITS AFFILIATES AND PROVIDER, ITS AFFILIATES AND 
+SUPPLIERS, FOR DAMAGES UNDER THIS AGREEMENT, WHETHER ARISING IN OR FOR BREACH 
+OF CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY, OR 
+OTHERWISE, SHALL BE THE FEES PAID AND/OR OWED (AS APPLICABLE) BY CUSTOMER OR 
+ITS AFFILIATES FOR THE PRODUCTS THAT ARE THE SUBJECT OF THE BREACH, EXCEPT FOR 
+MAINTENANCE SERVICES OR A PRODUCT SUBJECT TO RECURRING FEES, FOR WHICH THE 
+MAXIMUM AGGREGATE AND CUMULATIVE LIABILITY SHALL BE THE AMOUNT PAID AND/OR OWED
+(AS APPLICABLE) FOR SUCH MAINTENANCE SERVICE OR PRODUCT DURING THE TWELVE (12) 
+MONTHS PRECEDING THE BREACH.  THE PARTIES AGREE THAT THESE LIMITATIONS OF 
+LIABILITY ARE AGREED ALLOCATIONS OF RISK CONSTITUTING IN PART THE CONSIDERATION
+FOR PROVIDER PROVIDING PRODUCTS AND SERVICES TO CUSTOMER, AND SUCH LIMITATIONS 
+WILL APPLY NOTWITHSTANDING THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED 
+REMEDY AND EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+LIABILITIES OR FAILURES.
+
+PRESS <ENTER> TO CONTINUE: 
+
+Provider's Affiliates and suppliers and Customer's Affiliates shall be 
+beneficiaries of this Limitation of Liability Section and Customer's Clients 
+and Third Party Users are entitled to the rights granted under the MSP License 
+and Use by Third Parties Sections of this Agreement; otherwise, no third party 
+beneficiaries exist under this Agreement. Provider expressly excludes any and 
+all liability to Third Party Users, Clients and to any other third party.
+
+14.  Confidential Information.
+
+(a)  Definition. "Confidential Information" means information or materials 
+disclosed by one party (the "Disclosing Party") to the other party (the 
+"Receiving Party") that are not generally available to the public and which, 
+due to their character and nature, a reasonable person under like circumstances
+would treat as confidential, including, without limitation, financial, 
+marketing, and pricing information, trade secrets, know-how, proprietary tools,
+knowledge and methodologies, the Software (in source code and/or object code 
+form), information or benchmark test results regarding the functionality and 
+performance of the Software, any Software license keys provided to Customer, 
+and the terms and conditions of this Agreement.
+
+Confidential Information shall not include information or materials that (i) 
+
+PRESS <ENTER> TO CONTINUE: 
+are generally known to the public, other than as a result of an unpermitted 
+disclosure by the Receiving Party after the date that Customer accepts the 
+Agreement (the "Effective Date"); (ii) were known to the Receiving Party 
+without an obligation of confidentiality prior to receipt from the Disclosing 
+Party; (iii) the Receiving Party lawfully received from a third party without 
+that third party's breach of agreement or obligation of trust; (iv) are 
+protected by Provider in accordance with its obligations under the Protected 
+Data Section below or SaaS Addendum (if applicable), or (v) are or were 
+independently developed by the Receiving Party without access to or use of the 
+Disclosing Party's Confidential Information.
+
+(b)  Obligations. The Receiving Party shall (i) not disclose the Disclosing 
+Party's Confidential Information to any third party, except as permitted in 
+subsection (c) below and (ii) protect the Disclosing Party's Confidential 
+Information from unauthorized use or disclosure by exercising at least the same
+degree of care it uses to protect its own similar information, but in no event 
+less than a reasonable degree of care.  The Receiving Party shall promptly 
+notify the Disclosing Party of any known unauthorized use or disclosure of the 
+Disclosing Party's Confidential Information and will cooperate with the 
+Disclosing Party in any litigation brought by the Disclosing Party against 
+third parties to protect its proprietary rights.  For the avoidance of doubt, 
+this Section shall apply to all disclosures of the parties' Confidential 
+
+PRESS <ENTER> TO CONTINUE: 
+Information as of the Effective Date, whether or not specifically arising from 
+a party's performance under this Agreement.
+
+(c)  Permitted Disclosures. Notwithstanding the foregoing, the Receiving Party 
+may disclose the Disclosing Party's Confidential Information without the 
+Disclosing Party's prior written consent to any of its Affiliates, directors, 
+officers, employees, consultants, contractors or representatives (collectively,
+the "Representatives"), but only to those Representatives that (i) have a "need
+to know" in order to carry out the purposes of this Agreement or to provide 
+professional advice in connection with this Agreement, (ii) are legally bound 
+to the Receiving Party to protect information such as the Confidential 
+Information under terms at least as restrictive as those provided herein, and 
+(iii) have been informed by the Receiving Party of the confidential nature of 
+the Confidential Information and the requirements regarding restrictions on 
+disclosure and use as set forth in this Section.  The Receiving Party shall be 
+liable to the Disclosing Party for the acts or omissions of any Representatives
+to which it discloses Confidential Information which, if done by the Receiving 
+Party, would be a breach of this Agreement.
+
+Additionally, it shall not be a breach of this Section for the Receiving Party 
+to disclose the Disclosing Party's Confidential Information as may be required 
+by operation of law or legal process, provided that the Receiving Party 
+
+PRESS <ENTER> TO CONTINUE: 
+provides prior notice of such disclosure to the Disclosing Party unless 
+expressly prohibited from doing so by a court, arbitration panel or other legal
+authority of competent jurisdiction.
+
+15.	Protected Data. For purposes of this Section, "Protected Data" means any 
+information or data that is provided by Customer to Provider during this 
+Agreement that alone or together with any other information relates to an 
+identified or identifiable natural person or data considered to be personal 
+data as defined under Privacy Laws, and "Privacy Laws" means any applicable 
+law, statute, directive or regulation regarding privacy, data protection, 
+information security obligations and/or the processing of Protected Data.
+
+Provider shall comply with all applicable Privacy Laws and implement reasonable
+technical and organizational measures to prevent unauthorized disclosure of or 
+access to Protected Data by third parties. Customer shall use reasonable 
+efforts to send only the least amount of Protected Data necessary for Provider 
+to fulfill its obligations under this Agreement or any Order.
+
+Customer hereby (i) represents that it has the right to send the Protected Data
+to Provider, (ii) consents for Provider to store and use the Protected Data 
+worldwide for the sole purpose of performing its obligations under this 
+Agreement and any applicable Orders, (iii) agrees that the Protected Data may 
+
+PRESS <ENTER> TO CONTINUE: 
+be accessed and used by Provider and its Representatives worldwide as may be 
+needed to support Provider's standard business operations, and (iv) agrees that
+Protected Data consisting of Customer contact information (e.g., email 
+addresses, names) provided as part of Maintenance Services may be sent to 
+Provider's third party service providers as part of Provider's services 
+improvement processes.
+
+16.	Compliance Verification. In order to allow Provider to verify that Customer
+is not engaged in any Overuse of Products, Customer shall: (i) maintain and use
+systems and procedures that allow Customer to accurately and completely track, 
+document, and report License Entitlements and Use of each Product; and (ii) 
+allow Provider to audit Customer's Use of the Products (the "Audit"). Audits 
+may be performed by Provider or its designated agent. Provider shall provide at
+least ten (10) days prior written notice to Customer before the start of an 
+Audit and will conduct the Audit during normal business hours at Customer's 
+facilities. Customer shall provide, and will require its Clients and Third 
+Party Users to provide, their full cooperation and assistance with such audit 
+and provide access to the applicable records and computers.
+
+(a)	Confidentiality. Provider agrees that any Customer information gathered 
+during the performance of an audit shall be Customer's Confidential Information
+under this Agreement.  Customer agrees that it will not require any further 
+
+PRESS <ENTER> TO CONTINUE: 
+confidentiality or nondisclosure agreements to be executed by Provider or its 
+designated agents in connection with the Audit.
+
+(b)	Excess Use. If an Audit indicates that Customer has engaged in Overuse, 
+then Customer will be invoiced for all Overuse quantities at Provider's then 
+current list price plus any applicable Overuse fees, which may include but are 
+not limited to, interest on past due amounts and prior Maintenance Service 
+fees. If the Overuse is more than five percent (5%) of the License 
+Entitlements, then Customer shall reimburse Provider for Provider's cost of 
+performing the Audit.
+
+17.	SaaS Provisions. If Customer places an Order for SaaS Software, the terms 
+and conditions of the Software as a Service Addendum available at 
+https://www.quest.com/legal/saas-addendum.aspx (the "SaaS Addendum") are 
+incorporated herein and made part of this Agreement.
+
+18.  General.
+
+(a)	Governing Law and Venue.  This Agreement shall be governed by and construed
+in accordance with the laws of the State of Washington, without giving effect 
+to any conflict of laws principles that would require the application of laws 
+of a different state.  Any action seeking enforcement of this Agreement or any 
+
+PRESS <ENTER> TO CONTINUE: 
+provision hereof shall be brought exclusively in the state or federal courts 
+located in King County, Washington. Each party hereby agrees to submit to the 
+jurisdiction of such courts.
+
+The parties agree that neither the United Nations Convention on Contracts for 
+the International Sale of Goods, nor the Uniform Computer Information 
+Transaction Act (UCITA) shall apply to this Agreement, regardless of the states
+in which the parties do business or are incorporated.
+
+(b)	Assignment. Except as otherwise set forth herein, Customer shall not, in 
+whole or part, assign or transfer any part of this Agreement, the Licenses 
+granted under this Agreement or any other rights, interest or obligations 
+hereunder, whether voluntarily, by contract, by operation of law or by merger 
+(whether that party is the surviving or disappearing entity), stock or asset 
+sale, consolidation, dissolution, through government action or order, or 
+otherwise without the prior written consent of Provider.  Any attempted 
+transfer or assignment by Customer that is not permitted by this Agreement 
+shall be null and void.
+
+(c)	Severability. If any provision of this Agreement shall be held by a court 
+of competent jurisdiction to be contrary to law, such provision will be 
+enforced to the maximum extent permissible by law to effect the intent of the 
+
+PRESS <ENTER> TO CONTINUE: 
+parties and the remaining provisions of this Agreement will remain in full 
+force and effect. Notwithstanding the foregoing, the terms of this Agreement 
+that limit, disclaim, or exclude warranties, remedies or damages are intended 
+by the parties to be independent and remain in effect despite the failure or 
+unenforceability of an agreed remedy. The parties have relied on the 
+limitations and exclusions set forth in this Agreement in determining whether 
+to enter into it.
+
+(d)	Use by U.S. Government.  The Software is a "commercial item" under FAR 
+12.201. Consistent with FAR section 12.212 and DFARS section 227.7202, any use,
+modification, reproduction, release, performance, display, disclosure or 
+distribution of the Software or Documentation by the U.S. government is 
+prohibited except as expressly permitted by the terms of this Agreement. In 
+addition, when Customer is a U.S. government entity, the language in Subsection
+(ii) of the Infringement Indemnity Section of this Agreement and the Injunctive
+Relief Section of this Agreement shall not be applicable.
+
+(e)	Notices. All notices provided hereunder shall be in writing and addressed 
+to the legal department of the respective party or to such other address as may
+be specified in an Order or in writing by either of the parties to the other in
+accordance with this Section. Except as may be expressly permitted herein, 
+notices may be delivered personally, sent to an email address specified by the 
+
+PRESS <ENTER> TO CONTINUE: 
+receiving party, sent via a nationally recognized courier or overnight delivery
+service, or mailed by first class mail, postage prepaid.  All notices, 
+requests, demands or communications shall be deemed effective upon personal 
+delivery or, if sent by mail, four (4) days following deposit in the mail in 
+accordance with this paragraph.
+
+(f)	Disclosure of Customer Status. Provider may include Customer in its listing
+of customers and, upon written consent by Customer, announce Customer's 
+selection of Provider in its marketing communications.
+
+(g)	Waiver. Performance of any obligation required by a party hereunder may be 
+waived only by a written waiver signed by an authorized representative of the 
+other party, which waiver shall be effective only with respect to the specific 
+obligation described therein. Any waiver or failure to enforce any provision of
+this Agreement on one occasion will not be deemed a waiver of any other 
+provision or of such provision on any other occasion.
+
+(h)	Injunctive Relief. Each party acknowledges and agrees that in the event of 
+a material breach of this Agreement, including but not limited to a breach of 
+the Software License, Restrictions or Confidential Information Sections of this
+Agreement, the non-breaching party shall be entitled to seek immediate 
+injunctive relief, without limiting its other rights and remedies.
+
+PRESS <ENTER> TO CONTINUE: 
+
+(i)	Force Majeure. Each party will be excused from performance for any period 
+during which, and to the extent that, it is prevented from performing any 
+obligation or service as a result of causes beyond its reasonable control, and 
+without its fault or negligence, including without limitation, acts of God, 
+strikes, lockouts, riots, acts of war, epidemics, communication line failures, 
+and power failures. For added certainty, this Section shall not operate to 
+change, delete, or modify any of the parties' obligations under this Agreement 
+(e.g., payment), but rather only to excuse a delay in the performance of such 
+obligations.
+
+(j)	Equal Opportunity. Provider is a federal contractor and Affirmative Action 
+employer (M/F/D/V) as required by the Equal Opportunity clause C.F.R. ? 
+60-741.5(a).
+
+(k)	Headings. Headings in this Agreement are for convenience only and do not 
+affect the meaning or interpretation of this Agreement. This Agreement will not
+be construed either in favor of or against one party or the other, but rather 
+in accordance with its fair meaning. When the term "including" is used in this 
+Agreement it will be construed in each case to mean "including, but not limited
+to."
+
+
+PRESS <ENTER> TO CONTINUE: 
+(l)  	Legal Fees. If any legal action is brought to enforce any rights or 
+obligations under this Agreement, the prevailing party shall be entitled to 
+recover its reasonable attorneys' fees, court costs and other collection 
+expenses, in addition to any other relief it may be awarded.
+
+(m)	Entire Agreement. This Agreement is intended by the parties as a final 
+expression of their agreement with respect to the subject matter thereof and 
+may not be contradicted by evidence of any prior or contemporaneous agreement 
+unless such agreement is signed by both parties.  In the absence of such an 
+agreement, this Agreement and the applicable Signed Order or Governing 
+Quotation shall constitute the complete and exclusive statement of the terms 
+and conditions and no extrinsic evidence whatsoever may be introduced in any 
+judicial or arbitral proceeding that may involve the Agreement.    Each party 
+acknowledges that in entering into the Agreement it has not relied on, and 
+shall have no right or remedy in respect of, any statement, representation, 
+assurance or warranty (whether made negligently or innocently) other than as 
+expressly set out in the Agreement. In those jurisdictions where an original 
+(non-faxed, non-electronic, or non-scanned) copy of an agreement or an original
+(non-electronic) signature on agreements such as this Agreement or an Order is 
+required by law or regulation, the parties hereby agree that, notwithstanding 
+any such law or regulation, an electronic, or scanned copy of and a certified 
+electronic signature on this Agreement or any Order shall be sufficient to 
+
+PRESS <ENTER> TO CONTINUE: 
+create an enforceable and valid agreement. In the event of a conflict between 
+the terms of this Agreement and the terms contained in an Order, the terms of a
+Signed Order or Governing Quotation shall control.  For all other Orders, in 
+the event of a conflict between the terms of this Agreement and the terms 
+contained in an Order, the terms of this Agreement shall control.   Neither 
+this Agreement, nor an Order, may be modified or amended except by a writing 
+executed by a duly authorized representative of each party.  No other act, 
+document, usage or custom shall be deemed to amend or modify this Agreement or 
+an Order.
+
+
+USSTA20180525.1
+
+DO YOU ACCEPT THE TERMS OF THIS LICENSE AGREEMENT? (Y/N): 
+
+
+===============================================================================
+Choose Install Folder
+---------------------
+
+Select your installation folder (DEFAULT: /home/test/Quest/Foglight)
+   : 
+
+
+===============================================================================
+Choose Link Location
+--------------------
+
+Where would you like to create links?
+
+  ->1- Default: /home/test/Quest/Foglight/Shortcuts
+    2- In your home folder
+    3- Choose another location...
+
+    4- Don't create links
+
+ENTER THE NUMBER OF AN OPTION ABOVE, OR PRESS <ENTER> TO ACCEPT THE DEFAULT
+      : 
+
+
+===============================================================================
+Pre-Installation Summary
+------------------------
+
+Please review the installation parameters before continuing:
+
+Product Name:
+    Foglight 5.9.5
+
+Install Folder:
+    /home/test/TestInstallFMS/Foglight
+
+Link Folder:
+    /home/test/Quest/Foglight/Shortcuts
+
+Product Components:
+    Foglight
+
+Installation Type :
+    New Install
+
+
+
+PRESS <ENTER> TO CONTINUE: 
+
+
+===============================================================================
+Installing...
+-------------
+
+ [==================|==================|==================|==================]
+ [------------------|------------------|------------------|------------------]
+
+
+
+===============================================================================
+Choose Install Folder
+---------------------
+
+Please enter the password for the administrator account 'foglight' 
+(default:'foglight').
+For default password of "foglight" press ENTER
+*   Password: **For default password of "foglight" press ENTER
+   Retype Password: Configure as Secure Server (HTTPS Only)? (Y/N): 
+
+
+===============================================================================
+Foglight Mode
+-------------
+
+Please specify a Foglight mode.
+  ->1- Standalone
+    2- HA (High Availability)
+
+Foglight Mode: 
+
+
+===============================================================================
+Foglight Database Configuration
+-------------------------------
+
+Enter the user ID and password for the Foglight database account.
+User ID (DEFAULT: foglight): For default password of "foglight" press ENTER
+   Password: *For default password of "foglight" press ENTER
+   Retype Password: *  ->1- Embedded
+    2- External
+
+Select the Foglight database configuration: Please enter the database port number (DEFAULT: 15432): Embedded Database Administrator Account 'root'
+Please enter the DB administrator password
+For default password of "foglight" press ENTER
+   Password: *For default password of "foglight" press ENTER
+   Retype Password: *Starting embedded database...
+Connecting as the database administrator...
+Successfully connected as administrator...
+Checking the databases schema...
+Creating the database...
+Connecting as the foglight user...
+Successfully connected as foglight user...
+Creating foglight schema...
+Populating the foglight database...
+Shutting down embedded database...
+Database configuration complete.
+
+
+
+===============================================================================
+Foglight Ports Configuration
+----------------------------
+
+Please enter the Foglight port assignments.
+Please enter Cluster Multi-cast Port (DEFAULT: 45566): Please enter HTTP Port (DEFAULT: 8080): Please enter HTTPS Port (DEFAULT: 8443): Please enter Federation Port (DEFAULT: 1099): Please enter QP5 Server Port (DEFAULT: 8448): 
+
+
+===============================================================================
+Foglight License
+----------------
+
+Please enter the path to a Foglight license file: 
+
+
+===============================================================================
+Foglight Server Startup
+-----------------------
+
+Start Foglight Server?
+
+ (Note: Installation will finish after launching the server)
+
+
+  ->1- Run Now
+    2- Not Now
+
+ENTER THE NUMBER FOR YOUR CHOICE, OR PRESS <ENTER> TO ACCEPT THE DEFAULT:
+   : 
+
+
+
+===============================================================================
+Installation Complete
+---------------------
+
+Congratulations. Foglight has been successfully installed to:
+
+/home/test/TestInstallFMS/Foglight
+
+Server administration user = foglight
+Database administrator user = foglight
+
+[Build: 5.9.5-201901131709-163412de-4]
+
+PRESS <ENTER> TO EXIT THE INSTALLER: =========================================
+[30m[47mChecking Foglight_x.x.x_InstallLog.log...[0m
+=========================================
+1
+[32mPASS --> No Warnings/NonFatalErrors/FatalErrors found in Foglight_x.x.x_InstallLog.log[0m
+============================================================
+[30m[47mChecking Foglight_x.x.x_Install_yyyy-mm-dd_hhmmss_xxx.log...[0m
+============================================================
+2019-01-16 08:10:39.356 ERROR   [main] com.quest.nitro.installanywhere.FoglightConfigSettings - FoglightConfigSettings.Modify configuration [Database Info.]: Type=POSTGRESQL, Host=127.0.0.1, Port=15432: []
+0
+[31mFAIL --> There's Warnings/NonFatalErrors/FatalErrors in Foglight_x.x.x_Install_yyyy-mm-dd_hhmmss_xxx.log, please check[0m
+===================
+[30m[47mStarting the FMS...[0m
+===================
+2019-01-16 08:10:51.000 INFO  [native] Attempting to start Foglight as a daemon.
+  The startup may take some time to complete. Please check the log file for more
+  information. Use the '--stop' command line option to shut down a running
+  daemon.
+
+
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\2019-01-16 08:20:34.993 INFO    [forge-startup] com.quest.nitro.startup.ForgeServer - Forge Server startup completed.
+
+
+[30m[47mFMS startup complete![0m
+
+
+================================
+[30m[47mChecking ManagementServer log...[0m
+================================
+2019-01-16 08:15:36.789 WARN    [forge-startup] com.quest.nitro.service.topology.provider.wcfsdo.TopologyTypeImpl - The ConnectionState.connectedState property is an observation property that has the is-containment flag cleared.  This flag will be set.
+[31mFAIL --> There's WARN/ERROR/FATAL in ManagerServer log, please check Management Server log.[0m
+=================================
+[30m[47mAll tests are done, exit program.[0m
+=================================
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░▄▄▀▀▀▀▀▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░▄▀░░░░░░░▀▄░░░░░░░░░░░░░░░░░░░░░░░░░░
+░▄▀░░░▄▄░░░░▀▀▀▀▀▀▀▄▄▀▀▀▀▀▀▀▀▀▀▀▀▄▄░░░░
+░█░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░▀▄░░
+░█░░░░██▄████▄░██▄░░░░▄██░▄████▄░░░░▀▄░
+░█░░░░██▀░░▀██▄░██▄░░██▀░██▀░▄██░░░░░█░
+░█░░░░██░░░░███░░█████▀░░██▄█▀▀░░░░░░█░
+░█░░░░███▄▄███▀░░░▀██▀░░░▀██▄▄▄██░░░░█░
+░▀▄░░░░▀▀▀▀▀▀░░░░░██▀░░░░░░▀▀▀▀▀░░░░░█░
+░░▀▄░░░░░░░░░░░░░██▀░░░▄▄░░░░░░░░░▄▄▀░░
+░░░░▀▀▀▀▀▀▀▀▀▄░░░▀▀░░░▄▀░▀▀▀▀▀▀▀▀▀░░░░░
+░░░░░░░░░░░░░▀▄░░░░░░▄▀░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░▀▀▀▀▀▀░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░

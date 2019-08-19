@@ -1,0 +1,41 @@
+====================================
+[30m[47mConnecting to Docker host machine...[0m
+====================================
+Done
+
+==========================================
+[30m[47mEmptying the /home/test/Downloads/ path...[0m
+==========================================
+Done
+============================
+[30m[47mDownloading FMS installer...[0m
+============================
+===========================================
+[30m[47mGive execute permission to the installer...[0m
+===========================================
+Done
+
+=============================================
+[30m[47mDownloading silent install properties file...[0m
+=============================================
+Done
+====================================
+[30m[47mDownloading Foglight.license file...[0m
+====================================
+Done
+===========================================
+[30m[47mModifying silent install properties file...[0m
+===========================================
+Done
+
+==================================================================
+[30m[47mInstalling FMS in silent mode with the modified properties file...[0m
+==================================================================
+Preparing to install...
+Extracting the JRE from the installer archive...
+Unpacking the JRE...
+Extracting the installation resources from the installer archive...
+Configuring the installer for this system's environment...
+
+Launching installer...
+
